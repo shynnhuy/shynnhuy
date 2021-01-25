@@ -2,8 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently learning [ReactJS][react]!
-- 🌱 I’m currently learning everything 📚
+- 🔭 I’m currently learning [ReactJS][react], [NodeJS][nodejs]!
 - ⚡ Fun fact: I love to play guitar 🎸
 
 ### Connect with me:
