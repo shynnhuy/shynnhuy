@@ -1,4 +1,4 @@
-### Hi there, I'm Huy - aka [ShynnHuy][website] 👋
+### Hi there, I'm Xuân Huy - aka [ShynnHuy][website] 👋
 
 ## I'm a Student and Developer!
 
