@@ -67,6 +67,7 @@
 [nodejs]: https://nodejs.org/en/
 [java]: https://openjfx.io/
 
+<br />
 ---
 
 ![](https://komarev.com/ghpvc/?username=shynnhuy&color=brightgreen&style=for-the-badge)
