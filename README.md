@@ -14,6 +14,9 @@
 [<img align="left" alt="shynnhuy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+![](https://komarev.com/ghpvc/?username=shynnhuy&color=brightgreen&style=for-the-badge)
 
 ### Languages and Tools:
 
@@ -55,7 +58,7 @@
 
 ---
 
-<img align="left" alt="ShynnHuy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shynnhuy&show_icons=true&hide_border=true" />
+<img align="left" alt="ShynnHuy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shynnhuy&show_icons=true&hide_border=true&theme=buefy" />
 
 [website]: https://shynn.works
 [twitter]: https://twitter.com/shynnhuy
@@ -67,4 +70,15 @@
 [nodejs]: https://nodejs.org/en/
 [java]: https://openjfx.io/
 
-![](https://komarev.com/ghpvc/?username=shynnhuy&color=brightgreen&style=for-the-badge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shynnhuy&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+---
+
+<a href="https://github.com/shynnhuy/shynnhuy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shynnhuy&repo=shynnhuy&show_owner=true" />
+</a>
+<a href="https://github.com/shynnhuy/nnyhs-food-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shynnhuy&repo=nnyhs-food-client&show_owner=true" />
+</a>
