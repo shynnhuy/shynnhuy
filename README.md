@@ -87,4 +87,4 @@
 
 ---
 
-[![shynnhuy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shynnhuy)](https://github.com/anuraghazra/github-readme-stats)
+[![shynnhuy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shynnhuy)](https://github.com/shynnhuy)
