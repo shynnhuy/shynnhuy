@@ -82,3 +82,9 @@
 <a href="https://github.com/shynnhuy/nnyhs-food-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shynnhuy&repo=nnyhs-food-client&show_owner=true" />
 </a>
+
+<br />
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shynnhuy)](https://github.com/anuraghazra/github-readme-stats)
