@@ -66,3 +66,7 @@
 [angular]: https://angular.io/
 [nodejs]: https://nodejs.org/en/
 [java]: https://openjfx.io/
+
+---
+
+![](https://komarev.com/ghpvc/?username=shynnhuy&color=brightgreen&style=for-the-badge)
