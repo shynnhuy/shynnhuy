@@ -88,3 +88,10 @@
 ---
 
 [![shynnhuy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shynnhuy)](https://github.com/shynnhuy)
+
+---
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shynnhuy" alt="shynnhuy" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shynnhuy&" alt="shynnhuy" /></p>
